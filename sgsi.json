@@ -1,5 +1,5 @@
 {
-  "rom_url": "https://ip1824741756.out.azhimalayanvh.com/Firmware/Flyme/meizu17_Pro/8.1.2.4/cn/20200908205339/d4cc2a1c/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=f70642bdb4ca6dd6c31b6eaa47049ff1e168c8af5141f446&ali_redirect_ex_tmining_ts=1608603526&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/16xs/8.20.11.3/cn_daily/20201103041344/fa6b611b/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "gsi.7z",
   "make_miui": false,
